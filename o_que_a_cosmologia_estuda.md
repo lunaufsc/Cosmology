@@ -1,24 +1,19 @@
 # O que a Cosmologia estuda?
 
-<!-- Sugestão de imagem de capa:
-![Imagem do Universo](imagens/universo.png)
--->
-
 ## O que é a cosmologia?
 
 A Cosmologia é a ciência responsável por investigar a estrutura, a evolução e a composição do Universo. Seu campo de estudo abrange desde a constituição fundamental e a forma como a matéria se distribui no espaço até o próprio formato do Cosmos, questionando se o Universo é finito ou infinito, se possui uma forma definida e se houve um início e se haverá um fim.
 
 ## As origens da Cosmologia
 
+<img width="569" height="518" alt="cosmologia" src="https://github.com/user-attachments/assets/a1dedba2-5059-4a99-b325-729d631efaa4" />
+
+
 Quando pensamos em estudo do Universo, é provável que pensemos em tecnologia de ponta, telescópios modernos, foguetes, expedições para fora da Terra… Porém, as perguntas a respeito do universo e a busca por respostas precedem (e muito) toda essa tecnologia que temos disponível nos dias atuais.
 
 A Cosmologia é uma vertente da Astronomia. Enquanto a Astronomia estuda corpos celestes individualmente, a Cosmologia se ocupa do estudo do Cosmos como um todo.
 
 A etimologia da palavra Cosmologia já sugere onde foi o berço dessa ciência. Sua raiz vem do idioma grego antigo, derivada do termo *cosmos* (universo) e *logos* (razão). A filosofia grega, especialmente a pré-socrática, está intimamente ligada com os primórdios da Cosmologia, pois esses filósofos especularam a respeito da origem real do universo, utilizando a lógica, buscando respostas racionais e desafiando o senso comum de seu tempo: os mitos que compunham a religião grega.
-
-<!-- Sugestão de imagem:
-![Tales de Mileto](imagens/tales-de-mileto.png)
--->
 
 O primeiro cosmólogo da tradição grega foi Tales de Mileto. Sua hipótese é que a água era a origem de tudo, sendo o primeiro que temos ciência a cogitar que a origem do Universo não residia em uma explicação sobrenatural, mas sim em um elemento da natureza.
 
@@ -30,9 +25,8 @@ Nos dias atuais, a cosmologia conta com milênios de avanços em cálculos matem
 
 No entanto, apesar de tudo isso, estima-se que cerca de 95% do Universo ainda seja formado por componentes não completamente compreendidos pelos seres humanos [[3]](#fontes). Sendo assim, a Cosmologia ainda tem muito o que estudar e descobrir.
 
-<!-- Sugestão de imagem:
-![Composição do Universo](imagens/composicao-do-universo.png)
--->
+<img width="557" height="454" alt="universo_desconhecido" src="https://github.com/user-attachments/assets/28e7f6ed-4240-43ce-8e35-7aec62756a76" />
+
 
 Uma das principais dúvidas e tópicos de estudo atual dos cosmólogos é a respeito da composição da **matéria escura**. Em decorrência de suas características fundamentais, ela nunca foi detectada em laboratório e, sendo assim, nunca foi analisada de maneira direta.
 
