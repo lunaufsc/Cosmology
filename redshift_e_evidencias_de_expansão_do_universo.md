@@ -6,7 +6,9 @@ As primeiras teorias cosmologicas sobre o universo apresentavam um universo est�
 
 Durante décadas, acreditou-se que a gravidade faria a expansão do Universo desacelerar. Porém, no final dos anos 1990, observações de supernovas distantes mostraram o contrário: a expansão está se acelerando. Para explicar esse efeito, os cientistas propuseram a existência da energia escura — e a constante cosmológica, antes abandonada por Einstein, voltou ao centro da cosmologia.
 
-> [!TIP] O Maior Erro de Eintein?
+> [!TIP]
+> **O maior erro de Einstein?**
+>
 > Einstein incluiu a constante cosmológica para tornar o Universo estático, mas a abandonou quando Hubble mostrou que ele se expandia; segundo relatos, chamou sua inclusão de “seu maior erro”. Hoje, ela voltou como explicação para a energia escura e a aceleração da expansão do Universo.
 
 
@@ -14,20 +16,29 @@ Durante décadas, acreditou-se que a gravidade faria a expansão do Universo des
 
 A luz emitida pelas galáxias apresenta linhas espectrais, associadas à emissão e absorção de radiação em comprimentos de onda específicos pelos elementos químicos. Essas linhas permitem identificar a composição química dos objetos astronômicos.
 
-![linha_espectral](/figures/linha_espectral.jpg)
+**Figura 1 – Comparação entre linhas espectrais com desvio para o vermelho, sem desvio e com desvio para o azul.**
+
+![Linhas espectrais da luz](figures/linha_espectral.jpg)
+
+Fonte: reproduzida de [Lucio ([s. d.]), *Redshift e Lei de Hubble*, NOIC](https://noic.com.br/curso/miscelanea/redshift-e-lei-de-hubble/).
 
 Ao observar galáxias distantes, os astrônomos perceberam que essas linhas aparecem deslocadas para comprimentos de onda maiores, fenômeno conhecido como redshift (desvio para o vermelho).
 
 Esse deslocamento pode ser quantificado por:
-\[
-z = \frac{\lambda_{\text{obs}}-\lambda_{\text{emit}}}{\lambda_{\text{emit}}}
-\]
 
-em que \(\lambda_{\text{obs}}\) é o comprimento de onda observado e \(\lambda_{\text{emit}}\) é o emitido originalmente.
+```math
+z = \frac{\lambda_{\text{obs}}-\lambda_{\text{emit}}}{\lambda_{\text{emit}}}
+```
+
+em que $\lambda_{\text{obs}}$ é o comprimento de onda observado e $\lambda_{\text{emit}}$ é o emitido originalmente.
 
 No contexto cosmológico, o redshift ocorre porque a expansão do espaço alonga o comprimento de onda da luz durante sua propagação. Assim, quanto maior o redshift cosmológico, maior foi a expansão do Universo desde que aquela luz foi emitida.
 
-![universe_expantion](/figures/expansão_nasa.png)
+**Figura 2 – Expansão do Universo e alongamento do comprimento de onda da luz durante sua propagação.**
+
+![Expansão do Universo e alongamento do comprimento de onda da luz](figures/expans%C3%A3o_nasa.png)
+
+Fonte: [NASA (2019), *What is cosmological redshift?*](https://science.nasa.gov/asset/webb/what-is-cosmological-redshift/). Crédito da ilustração: NASA, ESA e Leah Hustak (STScI).
 
 ## A Lei de Hubble
 
@@ -35,9 +46,9 @@ Em 1929, Edwin Hubble relacionou o redshift das galáxias às suas distâncias. 
 
 Essa relação é expressa pela **Lei de Hubble–Lemaître**:
 
-$$
+```math
 v \approx H_0 d
-$$
+```
 
 em que:
 
@@ -59,10 +70,12 @@ A explicação mais simples para a energia escura é justamente a **constante co
 Hoje, a constante cosmológica faz parte do modelo padrão da cosmologia, chamado **ΛCDM**. Nesse modelo, a energia escura corresponde a cerca de 68% do conteúdo de massa-energia do Universo, enquanto a matéria escura e a matéria comum compõem o restante.
 
 
-# Referências
+## Referências
 
-BAGDONAS, Alexandre; ZANETIC, João; GURGEL, Ivã. Quem descobriu a expansão do universo? Disputas de prioridade como forma de ensinar cosmologia com uso da história e filosofia da ciência. Revista Brasileira de Ensino de Física, v. 39, n. 2, 2017. DOI: https://doi.org/10.1590/1806-9126-RBEF-2016-0257. Disponível em: https://www.scielo.br/j/rbef/a/Wb7Dtb36NHgVKH7LJg8grzN/. Acesso em: 19 nov. 2026.
+BAGDONAS, Alexandre; ZANETIC, João; GURGEL, Ivã. Quem descobriu a expansão do universo? Disputas de prioridade como forma de ensinar cosmologia com uso da história e filosofia da ciência. **Revista Brasileira de Ensino de Física**, [S. l.], v. 39, n. 2, e2602, 2017. DOI: https://doi.org/10.1590/1806-9126-RBEF-2016-0257. Disponível em: <https://www.scielo.br/j/rbef/a/Wb7Dtb36NHgVKH7LJg8grzN/>. Acesso em: 20 nov. 2026.
 
-Fonte: [NASA — Dark Energy](https://science.nasa.gov/dark-energy/)
+GOHD, Chelsea. **What is dark energy? Inside our accelerating, expanding universe**. [S. l.]: NASA, 2026. Disponível em: <https://science.nasa.gov/dark-energy/>. Acesso em: 20 nov. 2026.
 
-Fonte: [NASA — What Is Cosmological Redshift?](https://science.nasa.gov/asset/webb/what-is-cosmological-redshift/)
+LUCIO, Tiago. **Redshift e Lei de Hubble**. [S. l.]: NOIC, [s. d.]. Disponível em: <https://noic.com.br/curso/miscelanea/redshift-e-lei-de-hubble/>. Acesso em: 20 nov. 2026.
+
+NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA). **What is cosmological redshift?** [S. l.]: NASA, 21 mar. 2019. Disponível em: <https://science.nasa.gov/asset/webb/what-is-cosmological-redshift/>. Acesso em: 20 nov. 2026.
